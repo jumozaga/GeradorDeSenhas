@@ -13,4 +13,5 @@ senha = ""
 
 for i in range(tamanho):
     senha += choice(valores)
+print ("Sua senha é:")
 print(senha)
